@@ -5,10 +5,7 @@
 </p>
 
 <p align="left"> 
-  Olá, meu nome é Leonardo Camargo 👋, <br>
-  tenho 21 anos, e dei meu primeiro passo para iniciar na carreira de dev através de um bootcamp Web Full Stack Developer pela Digital House Brasil, curso intensivo de 8 meses. 
-   <br>
-  Estou em constante aprendizado, e atualmente estudo <strong>Engenharia de Software</strong> pelo Instituto Infnet e <strong>Tecnologia da Informação</strong> na Univesp.
+ E aí, eu sou o Leonardo Camargo, 21 anos. Estudando Engenharia de Software no Instituto Infnet e também Tecnologia da Informação na UNIVESP.
 </p>
 
 <p align="left">
